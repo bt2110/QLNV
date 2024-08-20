@@ -1,0 +1,110 @@
+.m-toast-box {
+    display: none;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+.m-toast-box .m-toast-item {
+    display: flex;
+    border-radius: 4px;
+    padding: 16px;
+    align-items: center;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    box-shadow: #939191 1px 2px 5px;
+}
+
+.m-toast-box .m-toast-item .m-toast-icon {
+    width: 20px;
+    height: 20px;
+    background-color: none;
+    font-size: 20px;
+}   
+
+.m-toast-box .m-toast-item .m-toast-text {
+    color: #000;
+    margin: 0 32px 0 8px;
+}
+
+.m-toast-box .m-toast-item .m-toast-close {
+    width: 20px;
+    height: 20px;
+    background-color: none;
+    font-size: 20px;
+    
+}
+
+
+/* Error */
+.m-toast-box .m-toast-item.m-toast-error {
+    background-color: #ffffff;
+
+}
+
+.m-toast-box .m-toast-item.m-toast-error .m-toast-icon {
+    color: red;
+}
+
+.m-toast-box .m-toast-item.m-toast-error .m-toast-close {
+    color: red;
+}
+
+.m-toast-box .m-toast-item.m-toast-error .m-toast-close:hover {
+    color: #000;
+}
+
+
+/* Warning */
+.m-toast-box .m-toast-item.m-toast-warning {
+    background-color: #ffffff;
+
+}
+
+.m-toast-box .m-toast-item.m-toast-warning .m-toast-icon {
+    color: #f8ae00;
+}
+
+.m-toast-box .m-toast-item.m-toast-warning .m-toast-close {
+    color: #f8ae00;
+}
+
+.m-toast-box .m-toast-item.m-toast-warning .m-toast-close:hover {
+    color: #000;
+}
+
+/* Success */
+.m-toast-box .m-toast-item.m-toast-success {
+    background-color: #ffffff;
+
+}
+
+.m-toast-box .m-toast-item.m-toast-success .m-toast-icon {
+    color: #00ffbf;
+}
+
+.m-toast-box .m-toast-item.m-toast-success .m-toast-close {
+    color: #00ffbf;
+}
+
+.m-toast-box .m-toast-item.m-toast-success .m-toast-close:hover {
+    color: #000;
+}
+
+/* Info */
+.m-toast-box .m-toast-item.m-toast-info {
+    background-color: #ffffff;
+
+}
+
+.m-toast-box .m-toast-item.m-toast-info .m-toast-icon {
+    color: #0077ff;
+}
+
+.m-toast-box .m-toast-item.m-toast-info .m-toast-close {
+    color: #0077ff;
+}
+
+.m-toast-box .m-toast-item.m-toast-info .m-toast-close:hover {
+    color: #000;
+}

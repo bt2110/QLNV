@@ -1,0 +1,78 @@
+.m-paging {
+    position: relative;
+    display: flex;
+    width: 100%;
+    color: aqua;
+    height: 56px;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    flex-shrink: 0;
+}
+
+.m-paging .m-page-number-group {
+    display: flex;
+}
+
+.m-paging .m-paging-center {
+    display: flex;
+}
+
+.m-paging button {
+    width: 30px;
+    height: 30px;
+    margin: 4px;
+    cursor: pointer;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+
+}
+
+.m-paging-icon {
+    background: no-repeat;
+    background-position: 16px center;
+}
+
+.m-paging .m-btn-first:hover,
+.m-paging .m-btn-prev:hover,
+.m-paging .m-btn-next:hover,
+.m-paging .m-btn-last:hover {
+    background-color: white;
+}
+
+.m-paging .m-page-number-group button.m-page-number {
+    border-radius: 50%;
+    border: 1px solid #bbbbbb;
+}
+
+.m-paging .m-page-number-group button.m-page-number:hover {
+    background-color: white;
+}
+
+.m-paging .m-page-number-group button.m-page-number-selected {
+    background-color: #019160;
+}
+
+.m-paging .m-paging-left {
+    position: absolute;
+    color: black;
+    left: 0;
+}
+
+.m-paging .m-paging-right {
+    position: absolute;
+    right: 0;
+}
+
+.m-page-grid {
+    position: relative;
+}
+
+.m-page-grid .m-paging {
+    position: absolute;
+    bottom: 0;
+}
+

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rhps++QLp9xiN/T73dBr3aoc++UPEKQFsbe8Ex4GMiJ8yctVjc5FypKUrV40wI608En4yM5HX42v64pRKmhyCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Project\\aspnetcore\\MISA.Cukcuk\\MISA.Cukcuk.Infrastructure\\MISA.Cukcuk.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,130 @@
+.m-dialog {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 30%;
+    min-height: 30%;
+    max-width: 80%;
+    background-color: white;
+    border-radius: 4px;
+    z-index: 1000;
+    margin-bottom: 10px;
+    border: 1px solid #bbbbbb;
+}
+
+    .m-dialog-content {
+        display: flex;
+        flex-direction: column;
+        max-width: 80%;
+        background-color: white;
+        border-radius: 4px;
+    }
+
+    .m-dialog .m-dialog-header {
+        height: 72px;
+        display: flex;
+    }
+
+    .m-dialog .m-dialog-header .d-header-text {
+        height: 24px;
+        width: 100%;
+        box-sizing: border-box;
+        background-position: center;
+        margin: 24px;
+        font-weight: bold;
+    }
+
+    .m-dialog .m-dialog-header .d-header-icon {
+        width: 24px;
+        height: 24px;
+        box-sizing: border-box;
+        border-radius: 4px;
+        border: none;
+        background-color: white;
+    }
+
+    .m-dialog .m-dialog-header .d-header-icon:hover {
+        background-color: #bbbbbb;
+    }
+
+    .m-dialog .m-dialog-body {
+        display: flex;
+        box-sizing: border-box;
+        flex-shrink: 0;
+    }
+
+    .m-dialog .m-dialog-body .body-left {
+        width: 150px;
+        margin-left: 24px;
+        margin-right: 8px;
+        box-sizing: border-box;
+        flex-shrink: 0;
+
+    }
+
+    .m-dialog .m-dialog-body .body-left .b-left-img{
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+        flex-shrink: 0; 
+        margin-right: 10px;
+        background-image: url("/src/assets/img/default-avatar.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        cursor: pointer;
+        border: 1px solid #bbbbbb;
+    }
+
+    .m-dialog .m-dialog-body .body-left .b-left-text{
+        font-size: 13px;
+    }
+
+    .m-dialog .m-dialog-body .body-right {
+        box-sizing: border-box;
+        flex-shrink: 0;
+        margin-right: 16px;
+        margin-bottom: 16px;
+    }
+
+    .m-dialog .m-dialog-body .body-right .r-input {
+        display: flex;
+        margin-bottom: 8px;
+    }
+
+    .m-dialog .m-dialog-body .body-right .r-input .r-info {
+        margin-right: 8px;
+    }
+
+
+    .m-dialog .m-dialog-footer {
+        height: 60px;
+        background-color: #bbbbbb;
+        text-align: right;   
+         
+    }
+
+    .m-dialog .m-dialog-footer .f-btn{
+        height: 36px;
+        margin-top: 12px;
+    }
+
+    .m-dialog .m-dialog-footer .f-btn-hover {
+        margin-right: 16px; 
+        color: black; 
+        background-color: #bbbbbb;
+    }
+
+    .m-dialog .m-dialog-footer .f-btn-hover:hover{
+        background-color: #5a5959;
+    }
+
+    .m-dialog .body-right .body-line {
+        height: 3px;
+        width: 60px;
+        background-color: #109160;
+        margin-top: 4px;
+        margin-bottom: 4px;
+    }

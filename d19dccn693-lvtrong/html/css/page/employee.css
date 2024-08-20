@@ -1,0 +1,57 @@
+.m-page-header {
+    position: relative;
+    height: 48px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+}
+
+.m-page-header .m-page-button {
+    position: absolute;
+    right: 0;
+}
+
+.m-page-header .m-page-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.m-page-tolbar {
+    height: 48px;
+    width: 100%;
+    display: flex;
+    position: relative;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+
+.m-page-tolbar .m-tolbar-left {
+    display: flex;
+}
+
+.m-page-tolbar .m-tolbar-left .left-item {
+    margin-right: 8px;
+}
+
+.m-page-tolbar .m-tolbar-right {
+    position: absolute;
+    right: 0;
+}
+
+.m-page-tolbar .m-tolbar-right .btn-res {
+    width: 40px;
+    height: 40px;
+    background-image: url("../../assets/icon/refresh.png");
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 4px;
+    cursor: pointer;
+    border: 1px solid #bbbbbb;
+}
+
+.m-page-grid {
+    width: 100%;
+    height: calc(100% - 96px);
+}

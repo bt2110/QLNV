@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\bin\Debug\net6.0\MISA.Cukcuk.Infrastructure.deps.json
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\bin\Debug\net6.0\MISA.Cukcuk.Infrastructure.dll
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\bin\Debug\net6.0\MISA.Cukcuk.Infrastructure.pdb
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\bin\Debug\net6.0\MISA.Cukcuk.Core.dll
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\bin\Debug\net6.0\MISA.Cukcuk.Core.pdb
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\obj\Debug\net6.0\MISA.Cukcuk.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\obj\Debug\net6.0\MISA.Cukcuk.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\obj\Debug\net6.0\MISA.Cukcuk.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\obj\Debug\net6.0\MISA.Cukcuk.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\obj\Debug\net6.0\MISA.Cukcuk.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\obj\Debug\net6.0\MISA.Cukcuk.Infrastructure.csproj.CopyComplete
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\obj\Debug\net6.0\MISA.Cukcuk.Infrastructure.dll
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\obj\Debug\net6.0\refint\MISA.Cukcuk.Infrastructure.dll
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\obj\Debug\net6.0\MISA.Cukcuk.Infrastructure.pdb
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Infrastructure\obj\Debug\net6.0\ref\MISA.Cukcuk.Infrastructure.dll

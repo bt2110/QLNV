@@ -1,0 +1,46 @@
+@import url("../style/components/button.css");
+@import url("../style/components/input.css");
+@import url("../style/components/icon.css");
+@import url("../style/components/toast.css");
+@import url("../style/components/table.css");
+@import url("../style/components/paging.css");
+@import url("../style/components/dialog.css");
+@import url("../style/components/combobox.css");
+/* @import url("/UI/assets/font/fontawesome-5.15.1/css/all.min.css");
+@import url("/UI/assets/font/fontawesome-5.15.1/js/all.min.js"); */
+/* @import url("/src/style/layout/content.css");
+@import url("/src/style/layout/navbar.css");
+@import url("/src/style/layout/header.css"); */
+
+
+body {
+    margin: 0px;
+    font-family: GoogleSans Regular;
+    font-size: 13px;
+}
+
+@font-face {
+    font-family: GoogleSans Regular;
+    src: url("/src/assets/font/GoogleSans-Regular.otf");
+}
+
+@font-face {
+    font-family: GoogleSans Bold;
+    src: url("/src/assets/font/GoogleSans-Bold.otf");
+}
+
+@font-face {
+    font-family: GoogleSans Italic;
+    src: url("/src/assets/font/GoogleSans-Italic.otf");
+}
+
+.m_row {
+    width: 100%;
+    margin-top: 4px;
+}
+
+.main {
+    display: flex;
+    width: 100%;
+    height: calc(100vh - 48px);
+}

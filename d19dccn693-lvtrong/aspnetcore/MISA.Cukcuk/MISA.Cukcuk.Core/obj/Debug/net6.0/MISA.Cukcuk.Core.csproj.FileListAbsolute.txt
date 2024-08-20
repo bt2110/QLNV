@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\bin\Debug\net6.0\MISA.Cukcuk.Core.deps.json
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\bin\Debug\net6.0\MISA.Cukcuk.Core.dll
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\bin\Debug\net6.0\MISA.Cukcuk.Core.pdb
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\obj\Debug\net6.0\MISA.Cukcuk.Core.Resource.ResourceVN.resources
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\obj\Debug\net6.0\MISA.Cukcuk.Core.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\obj\Debug\net6.0\MISA.Cukcuk.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\obj\Debug\net6.0\MISA.Cukcuk.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\obj\Debug\net6.0\MISA.Cukcuk.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\obj\Debug\net6.0\MISA.Cukcuk.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\obj\Debug\net6.0\MISA.Cukcuk.Core.dll
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\obj\Debug\net6.0\refint\MISA.Cukcuk.Core.dll
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\obj\Debug\net6.0\MISA.Cukcuk.Core.pdb
+C:\Users\HP\Desktop\Project\aspnetcore\MISA.Cukcuk\MISA.Cukcuk.Core\obj\Debug\net6.0\ref\MISA.Cukcuk.Core.dll
